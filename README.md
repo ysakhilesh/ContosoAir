@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/akhileshys/Airline%20Booking/_apis/build/status/ysakhilesh.ContosoAir?branchName=master)](https://dev.azure.com/akhileshys/Airline%20Booking/_build/latest?definitionId=6&branchName=master) 
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
